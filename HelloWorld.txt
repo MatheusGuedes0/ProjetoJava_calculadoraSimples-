@@ -1,5 +1,4 @@
 Hello World! 
 
-This is a java project
-
-i'm testing git with this file
+This is a calculator project using
+Java.
